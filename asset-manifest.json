@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.55af00d4.css",
-    "main.js": "/portfolio/static/js/main.6041acfd.js",
-    "static/css/64.917cfe77.chunk.css": "/portfolio/static/css/64.917cfe77.chunk.css",
-    "static/js/64.75361b27.chunk.js": "/portfolio/static/js/64.75361b27.chunk.js",
-    "static/css/769.70f3b610.chunk.css": "/portfolio/static/css/769.70f3b610.chunk.css",
-    "static/js/769.d3777a7b.chunk.js": "/portfolio/static/js/769.d3777a7b.chunk.js",
+    "main.css": "/portfolio/static/css/main.85f12012.css",
+    "main.js": "/portfolio/static/js/main.97fec98c.js",
+    "static/css/487.bb36206c.chunk.css": "/portfolio/static/css/487.bb36206c.chunk.css",
+    "static/js/487.1ebde006.chunk.js": "/portfolio/static/js/487.1ebde006.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/portfolio/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.9bdcab81.chunk.js": "/portfolio/static/js/990.9bdcab81.chunk.js",
     "static/media/MRABlogo.png": "/portfolio/static/media/MRABlogo.0942956999718fd84383.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/resume.pdf": "/portfolio/static/media/resume.93b6995b9bc57ef0ee29.pdf",
@@ -20,15 +20,15 @@
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/portfolio/index.html",
-    "main.55af00d4.css.map": "/portfolio/static/css/main.55af00d4.css.map",
-    "main.6041acfd.js.map": "/portfolio/static/js/main.6041acfd.js.map",
-    "64.917cfe77.chunk.css.map": "/portfolio/static/css/64.917cfe77.chunk.css.map",
-    "64.75361b27.chunk.js.map": "/portfolio/static/js/64.75361b27.chunk.js.map",
-    "769.70f3b610.chunk.css.map": "/portfolio/static/css/769.70f3b610.chunk.css.map",
-    "769.d3777a7b.chunk.js.map": "/portfolio/static/js/769.d3777a7b.chunk.js.map"
+    "main.85f12012.css.map": "/portfolio/static/css/main.85f12012.css.map",
+    "main.97fec98c.js.map": "/portfolio/static/js/main.97fec98c.js.map",
+    "487.bb36206c.chunk.css.map": "/portfolio/static/css/487.bb36206c.chunk.css.map",
+    "487.1ebde006.chunk.js.map": "/portfolio/static/js/487.1ebde006.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/portfolio/static/css/990.c6a7ee28.chunk.css.map",
+    "990.9bdcab81.chunk.js.map": "/portfolio/static/js/990.9bdcab81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55af00d4.css",
-    "static/js/main.6041acfd.js"
+    "static/css/main.85f12012.css",
+    "static/js/main.97fec98c.js"
   ]
 }
